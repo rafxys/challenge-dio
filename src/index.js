@@ -1,9 +1,11 @@
 
-// variáveis que armazenam o nome e a quantidade de experiência de um herói
+// variables that store the name and the amount of experience of a hero
 let nomeHeroi = "Rafael"
 let quantExp = 10001
 let nivel = 0
 
+
+// I used the switch for this case:
 switch (true) {
     case (quantExp <= 1000):
         nivel = "Ferro"
